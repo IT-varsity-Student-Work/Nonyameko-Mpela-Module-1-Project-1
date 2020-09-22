@@ -1,0 +1,33 @@
+body{
+    background-color: honeydew;
+    
+}
+
+
+h2{
+    color: darkmagenta;
+    font-family: fantasy;
+}
+
+
+
+table{
+    font-family: Helvetica, sans-serif;
+    border-collapse: collapse;
+    border-width: 1px;
+    border-style: solid;
+    border-color: deeppink;
+    
+
+    
+    
+}
+th{
+    font-weight: 800;
+    background-color: deeppink;
+    color: white;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
